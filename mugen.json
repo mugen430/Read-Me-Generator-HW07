@@ -1,0 +1,14 @@
+{
+  "name": "Read-Me-Generator-HW07",
+  "version": "1.0.0",
+  "description": "As an aspiring dev, we in our class were given a homework to do a Read Me Generator, this is my take on it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Maverick",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  }
+}
