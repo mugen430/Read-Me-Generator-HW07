@@ -1,4 +1,4 @@
-![MUGEN430]https://media.giphy.com/media/Pmq0DLk1P3gspTUOuP/giphy.gif)
+![MUGEN430](https://media.giphy.com/media/Pmq0DLk1P3gspTUOuP/giphy.gif)
 
 
   # GitHub Username
