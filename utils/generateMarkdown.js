@@ -9,7 +9,7 @@ function generateMarkdown(data) {
   ## ${data.email}
 
 
-​  # Project Title
+  # Project Name
   ## ${data.title}
 
 

@@ -2,15 +2,15 @@
 
 
   # GitHub Username
-  ## mugen430
+  ## Mugen 430
   
 
   # Email
   ## sample.sample@sample.com
 
 
-​  # Project Title
-  ## Read Me Generator
+  # Project Name
+  ## Read Me Gen
 
 
   # Installation Instructions
@@ -26,4 +26,4 @@
 
 
   # Collaborators
-  ## n/a
+  ## N/A
